@@ -16,6 +16,7 @@
 		F4CC42001BE8DB96005D4AB3 /* UIColorExtentionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F4CC41FF1BE8DB96005D4AB3 /* UIColorExtentionTests.m */; };
 		F4CC420B1BE8DB96005D4AB3 /* UIColorExtentionUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F4CC420A1BE8DB96005D4AB3 /* UIColorExtentionUITests.m */; };
 		F4CC421B1BE8DBFB005D4AB3 /* UIColor+extention.m in Sources */ = {isa = PBXBuildFile; fileRef = F4CC421A1BE8DBFB005D4AB3 /* UIColor+extention.m */; };
+		F4CC421D1BE8DDA2005D4AB3 /* wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4CC421C1BE8DDA2005D4AB3 /* wallpaper.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		F4CC420C1BE8DB96005D4AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4CC42191BE8DBFB005D4AB3 /* UIColor+extention.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+extention.h"; sourceTree = "<group>"; };
 		F4CC421A1BE8DBFB005D4AB3 /* UIColor+extention.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+extention.m"; sourceTree = "<group>"; };
+		F4CC421C1BE8DDA2005D4AB3 /* wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wallpaper.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 		F4CC41E41BE8DB96005D4AB3 /* UIColorExtention */ = {
 			isa = PBXGroup;
 			children = (
+				F4CC421C1BE8DDA2005D4AB3 /* wallpaper.jpg */,
 				F4CC41E81BE8DB96005D4AB3 /* AppDelegate.h */,
 				F4CC41E91BE8DB96005D4AB3 /* AppDelegate.m */,
 				F4CC41EB1BE8DB96005D4AB3 /* ViewController.h */,
@@ -259,6 +262,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4CC421D1BE8DDA2005D4AB3 /* wallpaper.jpg in Resources */,
 				F4CC41F51BE8DB96005D4AB3 /* LaunchScreen.storyboard in Resources */,
 				F4CC41F21BE8DB96005D4AB3 /* Assets.xcassets in Resources */,
 				F4CC41F01BE8DB96005D4AB3 /* Main.storyboard in Resources */,
